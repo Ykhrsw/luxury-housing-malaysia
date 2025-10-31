@@ -1,0 +1,29 @@
+{
+    "siteTitle": "Luxury Housing Malaysia",
+    "nav": {
+        "home": "Home",
+        "addons": "Add-ons",
+        "contact": "Contact"
+    },
+    "home": {
+        "title": "Exclusive Properties in Malaysia",
+        "subtitle": "Initial consultation: Free. Explore high-quality homes at attractive prices."
+    },
+    "addons": {
+        "title": "Add-on Services",
+        "items": [
+            "Video viewing (30 min) — RM 150",
+            "Contract assistance — RM 250",
+            "Local arrival Q&A — RM 100",
+            "Furniture package — RM 200",
+            "Internet check — RM 80"
+        ]
+    },
+    "contact": {
+        "title": "Contact Us",
+        "name": "Name",
+        "email": "Email",
+        "message": "Message",
+        "send": "Send"
+    }
+}

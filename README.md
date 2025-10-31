@@ -1,2 +1,2 @@
 # luxury-housing-malaysia
-Introducing Housing in Malaysia
+Introducing Luxury Housing in Malaysia
